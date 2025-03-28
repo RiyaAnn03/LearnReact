@@ -1,7 +1,7 @@
 import React from "react";
 import Maha from "../assets/MahaDance.png";
 import Kerala from "../assets/KeralaDance.png";
-import Tamil from "../assets/Tamil Nadu.png"
+
 
 const Card = () => {
   const data = [
