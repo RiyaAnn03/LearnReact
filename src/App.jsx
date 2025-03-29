@@ -6,8 +6,9 @@ import Form1 from './Components/FormSubmission/Form1'
 import Location from './Components/Location'
 import MovieAPI from './Components/Movie/MovieAPI'
 import Qutos from './Components/Qutos'
-import Ecommerce from './Components/ShopCArd/Ecommerce'
-import Test from './Components/ShopCArd/Test'
+// import Ecommerce from './Components/ShopCArd/Ecommerce'
+// import Test from './Components/ShopCArd/Test'
+import Toodoo from './Components/Toodoo'
 
 function App() {
 
@@ -22,8 +23,8 @@ function App() {
   {/* <Ecommerce/> */}
   {/* <Form/> */}
   {/* <Test/> */}
-  <Form1/>
-
+  {/* <Form1/> */}
+<Toodoo/>
     </>
   )
 }
